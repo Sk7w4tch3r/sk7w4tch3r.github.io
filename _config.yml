@@ -1,0 +1,16 @@
+title: Alfredo Canziani
+plugins:
+  - jekyll-remote-theme
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+  social_links:
+    twitter: alfcnz
+    github:  Atcold
+    youtube_channel: UCupQLyNchb9-2Z5lmUOIijw
+    youtube_channel_name: Alfredo Canziani
+google_analytics: G-NGQWNXRS74
+highlighter: rouge
+kramdown:
+    math_engine: katex
+    syntax_highlighter: rouge

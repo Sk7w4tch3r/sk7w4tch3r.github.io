@@ -1,23 +1,90 @@
 ---
 layout: page
-title: Didactics
+title: CV
 ---
 
-I'm devoted to free education and I'm teaching via Twitter (blog) and YouTube (video).
-Over the course of the years I've been creating several resources translated in over 15 languages.
-I've just finished pushing online the Spring 2021 edition of the NYU Deep Learning course.
-Finally, I'm writing a textbook with Mikael Henaff and Yann LeCun.
+<style>
+td, th {
+   border: none!important;
+}
+</style>
 
-You can read more about my teaching philosophy and methods in [this article](https://openreview.net/forum?id=3jKiduENcO).
+# Curriculum vitae
+
+### Education
+---
+
+|||
+| ------------ | ------------ |
+| **Shahid Beheshti University**    |   2017-2021    |
+| Bachelor of Computer Science   | GPA: 17.91  |
+|                                   | Last Year GPA: 19.37 |
+|||
+| **Shahid Beheshti High School \***   |  2014-2017   |
+| Diploma of hysics and Mathematics   | GPA: 18.70  |
+| \* National Organization for the Development of Exceptional Talents (NODET)                                  |  |
+
+### Experience
+---
+|||
+| ------- | ------------ |
+| **Algorithmic Trading**   |  Summer 2020 - Present    |
+| *Machine Learning Researcher*   | SBU CS Dept *, Tehran  |
+| Head Researcher in a research group studying and developing forex trader bot for gathering market data and predict future currency quotes using  machine learning techniques and deep neural networks. | |
+| **Radiography inc.**      |   January 2020 - Present    |
+| *Full Stack Developer*    | BMN*, Tehran  |
+| Designed, Built and Deployed a web application to host a machine learning model for recognizing Lamintis disease in horses using machine vision algorithms. | |
+| **Secure Communication Lab**      |   January 2021 - March 2021    |
+| *Machine Learning Researcher*     | BMN*, Tehran  |
+| Joint program of SCL, BMN, IR-MCI, creating AI video. | |
+|||
 
 
-## Deep Learning courses
+### Technical Strength
+---
+### Events
+---
+### Qualifications
+---
+|||
+| ------- | ------------ |
+|Member of National Organization for Developed and Exceptional Talents (NODET) | 2010 - 2017 |
+|Ranked as top 10% of SBU computer science students | 2010 - 2017 |
 
-- [NYU-DLSP21](https://github.com/Atcold/NYU-DLSP21)
-- [NYU-DLSP20](https://github.com/Atcold/pytorch-Deep-Learning) (major release)
-- [NYU-DLSP19](https://github.com/Atcold/pytorch-Deep-Learning/releases/tag/dlsp19)
-- [AIMS-DLFL19](https://github.com/Atcold/pytorch-Deep-Learning/releases/tag/aims-fl18)
-- [CoDaS-HEP18](https://github.com/Atcold/pytorch-Deep-Learning/releases/tag/v1.0.0)
-- [NYU-DLSP18](https://docs.google.com/document/d/1_p1Mw-NtMGN_vpas_pchLsQC2u0NM5mTnRapBrQ2ivk/)
-- [Purdue-DLFL16](https://docs.google.com/document/d/1ugJRMqQ_cCUQC1B8mSE0iro7sKrDT8-BnppTZv0rA08/)
-- [torch-Video-Tutorials](https://github.com/Atcold/torch-Video-Tutorials)
+&nbsp; <h4>Accepted as Exceptional Talents in following Master Programs</h4>
+|   University  |   Program |
+| ------------ | ------------ |
+| Tehran University | Computer Science |
+| Amir-Kabir University of Technology | Soft Computing and Artificial Intelligence |
+| Shahid Beheshti University | Data Mining |
+| Tarbiat Modarres University | Artificial Intelligence and Robotics Engineering |
+### Selected Course Projects
+---
+### Teaching Assistant
+---
+|||
+| ------- | ------------ |
+|Neural Networks - Graduate Course (2021) |  Dr. S. R. Kheradpisheh |
+|Matrices and Linear Algebra Foundations (2018) |  Dr. N. Karamzade |
+|Calculus 2 (2018) | Dr. R. Taleb|
+|Operating Systems (2020) | Dr. M. Fazlali|
+|Fundamentals Automata (2019) | Dr. S.A. Katanforoush|
+### Hobbies & Interests
+---
+|||
+|---|---|
+|   Swimming    |  Swimming coach (been swimming since 7)|
+|   Martial Arts    | 8 years of experience in Taekwondo and |
+|   | different Branches of Self Defence|
+|   Trail Running   |   |
+|   Classical Music |   |
+### References
+---
+|||
+|---|---|
+|Dr. Saeedreza Kheradpisheh |  sr.kheradpisheh@gmail.com |
+|Dr. Jamal Amani Rad | j.amanirad@gmail.com |
+|Dr. Farnaz Sheikhi | frnz.sheikhi@gmail.com |
+|Dr. Hadi g. Farahani | h_farahani@sbu.ac.ir|
+|Dr. Ebrahim A. Larijani | e.a.larijani@ipm.ir|
+|Dr. Mahmoud Fazlali | fazlali@sbu.ac.ir |

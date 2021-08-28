@@ -7,7 +7,7 @@ minima:
   social_links:
     twitter: c3nt4ur1
     github:  Sk7w4tch3r
-# google_analytics: G-NGQWNXRS74
+
 highlighter: rouge
 kramdown:
     math_engine: katex

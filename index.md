@@ -9,4 +9,4 @@ layout: page
 
 # About me
 
-Lorem Ipsum!
+Here I'll update my projects/ blog posts over time!

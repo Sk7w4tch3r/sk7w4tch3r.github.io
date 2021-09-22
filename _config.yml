@@ -3,7 +3,7 @@ plugins:
   - jekyll-remote-theme
 remote_theme: jekyll/minima
 minima:
-  skin: dark
+  skin: solarized-dark
   social_links:
     twitter: c3nt4ur1
     github:  Sk7w4tch3r

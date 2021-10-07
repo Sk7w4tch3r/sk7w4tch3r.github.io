@@ -10,3 +10,7 @@ layout: page
 # About me
 
 Here I'll update my projects/ blog posts over time!
+
+# Update
+
+Data Science: Week 4 materials are avaiable <a href='https://sk7w4tch3r.github.io/CS-SBU-DataScience/chapters/chapter4/04-1/'>here</a>!

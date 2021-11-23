@@ -8,9 +8,16 @@ layout: page
 
 
 # About me
+I'm a science enthusiast majoring in computer science, but I am also interested in psychology, social sciences, and, last but not least, philosophy.
 
-Here I'll update my projects and blog posts over time!
+My main interests in computer science are Computer Vision and Reinforcement Learning methods applied in Autonomous Vehicles and Self-Driving Cars. Besides, I'm also interested in private ML, trustworthy AI, and NLP in general.
 
-# News
+And if you want to know what I typically do, peek 3 of the following:
 
-\[UPDATE]: Data Science: Week 4 materials are avaiable <a href='https://sk7w4tch3r.github.io/CS-SBU-DataScience/chapters/chapter4/04-1/'>here</a>!
+- Studying/Reading/Working, mostly CS-related subjects
+- Long-distance Running
+- Watching streams, mostly in nature!
+- Watching movies
+- Sky Watching!
+
+With more than 90% confidence, I'm doing one of them at the moment!

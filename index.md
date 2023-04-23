@@ -45,12 +45,13 @@ With more than 90% confidence, I'm doing one of them at the moment!
     </li>
     </td>
     <td>
-    2022-Present
+    
     <li>
+        2022-Present <br>
         M.Sc. in Computer Science - University of Calgary
     </li>
-    2017-2021
     <li>
+        2017-2021 <br>
         B.Sc. in Computer Science - Shahid Beheshti University
     </li>
     </td>
